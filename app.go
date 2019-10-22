@@ -175,7 +175,10 @@ func newMedRecord(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	// initialize the blockchain and store in var
-	// @Todo update program to broadcast to multiple peers conect to Tendermint API for consensus
+	// @Todo update program to broadcast to multiple peers connect to Tendermint API for consensus
+	// @Todo Enable blockchain persistance
+	// @Todo Client application to interface with Blockchain
+	// @Todo CLI commands
 
 	BlockChain = NewBlockchain()
 

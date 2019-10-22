@@ -1,5 +1,4 @@
-## Simple Blockchain with Go
-
+## Project Qonsonance Blockchain
 In this project I will create a simple blockchain that stores medical data in Go.
 
 
